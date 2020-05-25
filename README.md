@@ -1,4 +1,6 @@
-# Tarlan Payment Gateway
+# This is a laravel package I developed when I worked at Tarlan Payments
+At that time I did not have deep understanding of laravel so soon I will revisit this repo and update it.
+
 # Платежный сервис для приема платежей https://tarlanpayments.kz
 
 Payment package tarlanpayments api for laravel 5.2 - 5.8
